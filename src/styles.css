@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+body {
+    font-family: 'Chivo', sans-serif;
+}
+.jumbotron {
+    background-image: url("../src/assets/images/landscape2.jpg");
+    background-size: cover;
+  }
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;
+}
+.btn {
+    border-radius: 50px;
+}
