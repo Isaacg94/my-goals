@@ -6,13 +6,20 @@
     font-weight: normal;
     src: local('Planet Kosmos'), url("../src/assets/fonts/PLANK___.woff") format('woff');
     }
-
+/* html { 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} */
 body {
     font-family: 'Chivo', sans-serif;
-    background-image: url("../src/assets/images/landscape6.jpg");
+    background: url("../src/assets/images/landscape6.jpg")no-repeat center center fixed; 
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    background-position: center center;
-    position: relative;
 
 
 }
