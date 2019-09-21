@@ -31,7 +31,8 @@ h1 {
     width: 90%;
     padding: 5%;
     padding-top: 3%;
-    border-radius: 2px;      
+    border-radius: 2px;
+    box-shadow: 3px 3px 3px #8899;     
 }
 .btn {
     border-radius: 50px;
