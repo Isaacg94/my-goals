@@ -25,6 +25,10 @@ h1 {
     font-family: 'Sacramento', cursive;
     font-size: 580%;
 }
+h4 {
+    cursor: url("../src/assets/images/my-cursor1.png"), auto;
+
+}
 
 .content {
     background: rgba(255,252,234,0.8);
